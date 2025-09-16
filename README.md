@@ -34,7 +34,7 @@ Implementation of Backprojection Algorithm for CT Image Reconstruction
 │── data/         # 샘플 데이터
 │── images/       # 결과 스크린샷
 │── README.md     # 설명 문서
-'''
+```
 
 
 ## Project Question Organization
