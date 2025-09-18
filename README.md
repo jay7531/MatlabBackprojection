@@ -20,7 +20,7 @@ Implementation of Backprojection Algorithm for CT Image Reconstruction
   
 - [문항 2] Create a sinogram of your photo with increasing the rotation angle (Δθ) by 1 degree (i.e., 180 angles), and show it. Here, implement by yourself the image rotation operation with the nearest neighbor interpolation method.
 
-*answer) 'the nearest neighbor interpolation method' is a fundamental technique in machine learning and optimization that involves finding the data point, or points, closest to a new, unknown point based on a defined distance metric. *
+*answer) 'the nearest neighbor interpolation method' is a fundamental technique in machine learning and optimization that involves finding the data point, or points, closest to a new, unknown point based on a defined distance metric. Both HW8problem2 and HW8problem2-1 are same program, which has similar flow. But there is main difference that *
 
 - [기능 3] (예: HW 제어 + 영상 처리 연계)
 
