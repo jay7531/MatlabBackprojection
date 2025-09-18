@@ -15,7 +15,8 @@ Implementation of Backprojection Algorithm for CT Image Reconstruction
 
 ## 🛠 문항별 서술
 - [문항 1] You may have realized from HW5 the need for zero-padding outside of your photo in order to avoid image artifacts from the filtered backprojection reconstruction. Determine the smallest size of zero-padded image for your photo. Discuss the reason for your selection for the size. In the following tasks, use the zero-padded image.
-    answer) The main reason why image artifacts are occured is when image is roteted, the edge of picture is cut off. So to solve this issue, we set zeropadding as long as samples's diagonal. Because the most longest part of image is its diagonal, when image is roteted none of image is cut.
+
+- answer) The main reason why image artifacts are occured is when image is roteted, the edge of picture is cut off. So to solve this issue, we set zeropadding as long as samples's diagonal. Because the most longest part of image is its diagonal, when image is roteted none of image is cut.
   
 - [기능 2] (예: 영상 노이즈 제거 및 필터링)
 - [기능 3] (예: HW 제어 + 영상 처리 연계)
